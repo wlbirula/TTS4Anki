@@ -23,6 +23,10 @@ house;das Haus
 Happy learning!
 
 # Todo
+- [ ] Requirements file
+
+- [ ] (Optional) copying multimedia files
+
 - [ ] Error handling
 
 # Technologies:
